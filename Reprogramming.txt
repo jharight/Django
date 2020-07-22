@@ -4,5 +4,9 @@ Welcome to my first java code
 
 System.out.println("Hello Test");
 
+Wow I am again makimh new chnages 
+This is for learning
+This is for new technology!!
+
 This is my second java program
 System.out.println("Hola..This is manish");
