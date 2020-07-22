@@ -3,3 +3,6 @@
 Welcome to my first java code
 
 System.out.println("Hello Test");
+
+This is my second java program
+System.out.println("Hola..This is manish");
